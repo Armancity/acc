@@ -1,0 +1,7 @@
+.accordion-header {
+    cursor: pointer;
+  }
+  
+  .accordion-content {
+    display: none;
+  }
